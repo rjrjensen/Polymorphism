@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{A36143F2-26F6-4EBE-B0A8-E35E9FDDA5DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{A36143F2-26F6-4EBE-B0A8-E35E9FDDA5DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Address", "Business.Address\Business.Address.csproj", "{A3B7CC37-EE11-4BB0-91EA-2C1B5060575D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A36143F2-26F6-4EBE-B0A8-E35E9FDDA5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A36143F2-26F6-4EBE-B0A8-E35E9FDDA5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A36143F2-26F6-4EBE-B0A8-E35E9FDDA5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B7CC37-EE11-4BB0-91EA-2C1B5060575D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B7CC37-EE11-4BB0-91EA-2C1B5060575D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B7CC37-EE11-4BB0-91EA-2C1B5060575D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B7CC37-EE11-4BB0-91EA-2C1B5060575D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
